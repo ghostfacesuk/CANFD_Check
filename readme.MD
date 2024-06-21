@@ -1,0 +1,1 @@
+Python script to checking ASC files for time jump and data loss. Designed for the CAN Send tool only! 
